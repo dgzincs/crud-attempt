@@ -1,0 +1,12 @@
+.modal_div {
+    opacity: 0;
+}
+
+.none {
+    display: none;
+}
+
+.modal_div.Active {
+    opacity: 0.9;
+    top: 5rem;
+}
